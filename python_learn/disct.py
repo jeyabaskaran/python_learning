@@ -10,6 +10,8 @@ print(disct['name'])
 
 print(len(disct))
 
+(m,n,*d)=disct
+print(m,n,d)
 # use dict keyword to create dictionary
 
 thisDisct=dict(name='fine',dump="dump",num=1)
