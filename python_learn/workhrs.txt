@@ -1,0 +1,8 @@
+EBS integration :
+1. Validation Service(dev&test) - 8 hrs
+2. Invoice Approval service(dev&test) - 9 hrs
+3. PO & NON-PO invoice approval flow - 8 hrs
+
+Codat Integration :
+1. Supplier pull up and validation - 12 hrs
+2. Customer pull up for invoice approval - 8 hrs

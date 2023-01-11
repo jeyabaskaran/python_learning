@@ -25,3 +25,10 @@ def tri_recursion(k):
 
 print("\n\nRecursion Example Results")
 tri_recursion(3)
+
+
+def loopfun(data):
+  for x in data:
+    print(x)
+
+loopfun(['data','somewhere','fast'])
