@@ -1,0 +1,17 @@
+techable machine -- google website
+mi-playground.com -- Machine learning playground
+
+
+Types of machine learning: 
+
+Supervised  -- Categroy with prZXoper names classifcation
+
+Unsupervised -- Categroy without names using clustering
+
+Reinforcement -- Like the game, trying to learn from the data and predict something.
+
+
+What is machine learning?
+
+It's contains many different types of data. Machine learn is an algorithm learn different patterns types of data
+and predict something.
